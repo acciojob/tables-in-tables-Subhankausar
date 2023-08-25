@@ -1,2 +1,8 @@
+.center{
+	text-align:center;
+}
 
-/* Your CSS Code here. */
+#bg{
+color: white;
+      background-color: black;
+}
