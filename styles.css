@@ -1,8 +1,8 @@
-.center{
-	text-align:center;
-}
 
 #bg{
 color: white;
       background-color: black;
+}
+.center{
+	text-align:center;
 }
